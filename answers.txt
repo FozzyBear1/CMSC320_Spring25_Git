@@ -1,0 +1,4 @@
+Q1: Why might we consider using Git?
+
+Answer: We consider using git because it facilitates collaboration, which will be important for 
+the final project. Also, it is good for backing up our code.
